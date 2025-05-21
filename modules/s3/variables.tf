@@ -1,6 +1,7 @@
 variable "bucket_name" {
   description = "The name of the S3 bucket duynt"
   type        = string
+  default     = "s3 duy nt"
 }
 
 variable "acl" {

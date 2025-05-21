@@ -1,6 +1,7 @@
 variable "s3_bucket_name" {
   description = "The name of the S3 bucket to use as the origin"
   type        = string
+  
 }
 
 variable "s3_bucket_domain_name" {

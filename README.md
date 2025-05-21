@@ -42,7 +42,7 @@ The project is modularized into the following components:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/terraform-aws-infra.git
+   git clone https://github.com/duynguyen3ptn/terraform-excercise.git
    cd terraform-aws-infra
    ```
 
