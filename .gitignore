@@ -1,0 +1,28 @@
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Terraform crash logs
+crash.log
+
+# Terraform plan files
+*.tfplan
+
+# Terraform provider plugins
+.terraform/
+.terraform.lock.hcl
+
+# Archive files
+*.zip
+
+# Local environment files
+.env
+.env.*
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
